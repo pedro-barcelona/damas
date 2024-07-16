@@ -1,0 +1,1 @@
+Jogo de damas para jogar com um amigo. 
